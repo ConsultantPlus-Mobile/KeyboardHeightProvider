@@ -12,7 +12,7 @@ Add the following repo to your project
 ```gradle
     repositories {
         maven {
-            url  "https://dl.bintray.com/crysis21/Android"
+            url  "https://jitpack.io"
         }
     }
 ```
@@ -20,7 +20,7 @@ Add the following repo to your project
 Add the following dependency to your project:
 
 ```gradle
-    implementation 'com.hold1:keyboardheightprovider:0.0.9'
+    implementation 'com.github.ConsultantPlus-Mobile:KeyboardHeightProvider:v1.0.0'
 ```
 
 ## Usage
